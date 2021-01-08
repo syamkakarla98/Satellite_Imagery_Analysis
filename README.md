@@ -1,2 +1,2 @@
 # Satellite Imagery Analysis
-Implementation of different techniques to find insights from the satellite data.
+Implementation of different techniques to find insights from the satellite data using Python.
